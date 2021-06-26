@@ -17,4 +17,4 @@ in terms of 2010 dollars,
 accounting for inflation over
 time.
 
-The data set cleaned from orginal data from kaggle , you can download it from https://www.google.com/url?q=https://www.kaggle.com/tmdb/tmdb-movie-metadata&sa=D&ust=1532469042115000
+The data set cleaned from orginal data from kaggle , you can download it from https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv&sa=D&ust=1532469042115000
