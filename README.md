@@ -1,4 +1,4 @@
-# Investigate-TMDb-Movie-Data-
+# Investigate-TMDb-Movie-Data
 
 This data set contains information
 about 10,000 movies collected from
